@@ -1,0 +1,23 @@
+{
+  "name": "meadowlark",
+  "version": "1.0.0",
+  "description": "a study project",
+  "main": "meadowlark.js",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wjdyxbd/meadowlark.git"
+  },
+  "author": "Yihe Chen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wjdyxbd/meadowlark/issues"
+  },
+  "homepage": "https://github.com/wjdyxbd/meadowlark#readme"
+}
